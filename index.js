@@ -1,4 +1,4 @@
-const axios = require('axios');
+import axios from 'axios';
 
 // copy-paste your URL provided in your Alchemy.com dashboard
 const ALCHEMY_URL = "";
